@@ -1,0 +1,16 @@
+accession,entry_name,gene,protein_name,organism,length,kinase_start,kinase_end,uniprot_entry_version
+P00533,EGFR_HUMAN,EGFR,"Epidermal growth factor receptor",Homo sapiens,1210,712,979,302
+P04626,ERBB2_HUMAN,ERBB2,"Receptor tyrosine-protein kinase erbB-2",Homo sapiens,1255,720,987,284
+P21860,ERBB3_HUMAN,ERBB3,"Receptor tyrosine-protein kinase erbB-3",Homo sapiens,1342,709,966,258
+Q15303,ERBB4_HUMAN,ERBB4,"Receptor tyrosine-protein kinase erbB-4",Homo sapiens,1308,718,985,254
+Q01279,EGFR_MOUSE,Egfr,"Epidermal growth factor receptor",Mus musculus,1210,714,981,254
+P04412,EGFR_DROME,Egfr,"Epidermal growth factor receptor",Drosophila melanogaster,1426,938,1198,250
+P24348,LET23_CAEEL,let-23,"Receptor tyrosine-protein kinase let-23",Caenorhabditis elegans,1323,885,1152,223
+P00519,ABL1_HUMAN,ABL1,"Tyrosine-protein kinase ABL1",Homo sapiens,1130,242,493,295
+P12931,SRC_HUMAN,SRC,"Proto-oncogene tyrosine-protein kinase Src",Homo sapiens,536,270,523,279
+P15056,BRAF_HUMAN,BRAF,"Serine/threonine-protein kinase B-raf",Homo sapiens,766,457,717,270
+P35968,VGFR2_HUMAN,KDR,"Vascular endothelial growth factor receptor 2",Homo sapiens,1356,834,1162,254
+Q06187,BTK_HUMAN,BTK,"Tyrosine-protein kinase BTK",Homo sapiens,659,402,655,277
+P24941,CDK2_HUMAN,CDK2,"Cyclin-dependent kinase 2",Homo sapiens,298,4,286,278
+P08581,MET_HUMAN,MET,"Hepatocyte growth factor receptor",Homo sapiens,1390,1078,1345,286
+Q9UM73,ALK_HUMAN,ALK,"ALK tyrosine kinase receptor",Homo sapiens,1620,1116,1392,236

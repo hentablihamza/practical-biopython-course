@@ -1,0 +1,132 @@
+CLUSTAL X (1.81) multiple sequence alignment
+
+
+EGFR_HUMAN                          FKKIKVLGSGAFGTVYKGLWIPEGEK--VKIPVAIKELREAT--SPKANK
+ERBB2_HUMAN                         LRKVKVLGSGAFGTVYKGIWIPDGEN--VKIPVAIKVLRENT--SPKANK
+ERBB3_HUMAN                         LRKLKVLGSGVFGTVHKGVWIPEGES--IKIPVCIKVIEDKS--GRQSFQ
+ERBB4_HUMAN                         LKRVKVLGSGAFGTVYKGIWVPEGET--VKIPVAIKILNETT--GPKANV
+EGFR_MOUSE                          FKKIKVLGSGAFGTVYKGLWIPEGEK--VKIPVAIKELREAT--SPKANK
+EGFR_DROME                          LRKGGVLGMGAFGRVYKGVWVPEGEN--VKIPVAIKELLKST--GAESSE
+LET23_CAEEL                         TKLDKKLGAGAFGTVFAGIYYPKRAK-NVKIPVAIKVFQTDQ----SQTD
+ABL1_HUMAN                          ITMKHKLGGGQYGEVYEGVWKKYSLT------VAVKTLKEDT----MEVE
+SRC_HUMAN                           LRLEVKLGQGCFGEVWMGTWNGT--T-----RVAIKTLKPGT----MSPE
+BRAF_HUMAN                          ITVGQRIGSGSFGTVYKGKWHGD---------VAVKMLNVTA-PTPQQLQ
+VGFR2_HUMAN                         LKLGKPLGRGAFGQVIEADAFGIDKTA-TCRTVAVKMLKEGA--THSEHR
+BTK_HUMAN                           LTFLKELGTGQFGVVKYGKWRGQ--Y-----DVAIKMIKEGS----MSED
+CDK2_HUMAN                          FQKVEKIGEGTYGVVYKARNKLTGEV------VALKKIRLDTE-TEGVPS
+MET_HUMAN                           VHFNEVIGRGHFGCVYHGTLLDNDGK---KIHCAVKSLNRIT--DIGEVS
+ALK_HUMAN                           ITLIRGLGHGAFGEVYEGQVSGMPND-PSPLQVAVKTLPEVC--SEQDEL
+
+EGFR_HUMAN                          EILDEAYVMASVDNP-HVCRLLGICLTST---VQLITQLMPFGCLLDYVR
+ERBB2_HUMAN                         EILDEAYVMAGVGSP-YVSRLLGICLTST---VQLVTQLMPYGCLLDHVR
+ERBB3_HUMAN                         AVTDHMLAIGSLDHA-HIVRLLGLCPGSS---LQLVTQYLPLGSLLDHVR
+ERBB4_HUMAN                         EFMDEALIMASMDHP-HLVRLLGVCLSPT---IQLVTQLMPHGCLLEYVH
+EGFR_MOUSE                          EILDEAYVMASVDNP-HVCRLLGICLTST---VQLITQLMPYGCLLDYVR
+EGFR_DROME                          EFLREAYIMASEEHV-NLLKLLAVCMSSQ---MMLITQLMPLGCLLDYVR
+LET23_CAEEL                         EMLEEATNMFRLRHD-NLLKIIGFCMHDD--GLKIVTIYRPLGNLQNFLK
+ABL1_HUMAN                          EFLKEAAVMKEIKHP-NLVQLLGVCTREP--PFYIITEFMTYGNLLDYLR
+SRC_HUMAN                           AFLQEAQVMKKLRHE-KLVQLYAVVSEEP---IYIVTEYMSKGSLLDFLK
+BRAF_HUMAN                          AFKNEVGVLRKTRHV-NILLFMGYSTKPQ---LAIVTQWCEGSSLYHHLH
+VGFR2_HUMAN                         ALMSELKILIHIGHHLNVVNLLGACTKPGG-PLMVIVEFCKFGNLSTYLR
+BTK_HUMAN                           EFIEEAKVMMNLSHE-KLVQLYGVCTKQR--PIFIITEYMANGCLLNYLR
+CDK2_HUMAN                          TAIREISLLKELNHP-NIVKLLDVIHTEN--KLYLVFEFL-HQDLKKFMD
+MET_HUMAN                           QFLTEGIIMKDFSHP-NVLSLLGICLRSE-GSPLVVLPYMKHGDLRNFIR
+ALK_HUMAN                           DFLMEALIISKFNHQ-NIVRCIGVSLQSL--PRFILLELMAGGDLKSFLR
+
+EGFR_HUMAN                          EH------------------------------------------------
+ERBB2_HUMAN                         EN------------------------------------------------
+ERBB3_HUMAN                         QH------------------------------------------------
+ERBB4_HUMAN                         EH------------------------------------------------
+EGFR_MOUSE                          EH------------------------------------------------
+EGFR_DROME                          NN------------------------------------------------
+LET23_CAEEL                         LH------------------------------------------------
+ABL1_HUMAN                          EC------------------------------------------------
+SRC_HUMAN                           GE------------------------------------------------
+BRAF_HUMAN                          II------------------------------------------------
+VGFR2_HUMAN                         SKRNEFVPYKTKGARFRQGKDYVGAIPVDLKRRLDSITSSQSSASSGFVE
+BTK_HUMAN                           EM------------------------------------------------
+CDK2_HUMAN                          AS------------------------------------------------
+MET_HUMAN                           NE------------------------------------------------
+ALK_HUMAN                           ET------------------------------------------------
+
+EGFR_HUMAN                          -----------------KDNIGSQYLLNWCVQIAKGMNYLEDRRLVHRDL
+ERBB2_HUMAN                         -----------------RGRLGSQDLLNWCMQIAKGMSYLEDVRLVHRDL
+ERBB3_HUMAN                         -----------------RGALGPQLLLNWGVQIAKGMYYLEEHGMVHRNL
+ERBB4_HUMAN                         -----------------KDNIGSQLLLNWCVQIAKGMMYLEERRLVHRDL
+EGFR_MOUSE                          -----------------KDNIGSQYLLNWCVQIAKGMNYLEDRRLVHRDL
+EGFR_DROME                          -----------------RDKIGSKALLNWSTQIAKGMSYLEEKRLVHRDL
+LET23_CAEEL                         -----------------KENLGAREQVLYCYQIASGMQYLEKQRVVHRDL
+ABL1_HUMAN                          ----------------NRQEVNAVVLLYMATQISSAMEYLEKKNFIHRDL
+SRC_HUMAN                           ----------------TGKYLRLPQLVDMAAQIASGMAYVERMNYVHRDL
+BRAF_HUMAN                          -----------------ETKFEMIKLIDIARQTAQGMDYLHAKSIIHRDL
+VGFR2_HUMAN                         EKSLSDVEEEEAPEDLYKDFLTLEHLICYSFQVAKGMEFLASRKCIHRDL
+BTK_HUMAN                           -----------------RHRFQTQQLLEMCKDVCEAMEYLESKQFLHRDL
+CDK2_HUMAN                          ----------------ALTGIPLPLIKSYLFQLLQGLAFCHSHRVLHRDL
+MET_HUMAN                           -----------------THNPTVKDLIGFGLQVAKGMKYLASKKFVHRDL
+ALK_HUMAN                           -----------RPRPSQPSSLAMLDLLHVARDIACGCQYLEENHFIHRDI
+
+EGFR_HUMAN                          AARNVLVKTPQ---HVKITDFGLAKLLGAEEKEY--HAEGGKVPIKWMAL
+ERBB2_HUMAN                         AARNVLVKSPN---HVKITDFGLARLLDIDETEY--HADGGKVPIKWMAL
+ERBB3_HUMAN                         AARNVLLKSPS---QVQVADFGVADLLPPDDKQL--LYSEAKTPIKWMAL
+ERBB4_HUMAN                         AARNVLVKSPN---HVKITDFGLARLLEGDEKEY--NADGGKMPIKWMAL
+EGFR_MOUSE                          AARNVLVKTPQ---HVKITDFGLAKLLGAEEKEY--HAEGGKVPIKWMAL
+EGFR_DROME                          AARNVLVQTPS---LVKITDFGLAKLLSSDSNEY--KAAGGKMPIKWLAL
+LET23_CAEEL                         ATRNVLVKKFN---HVEITDFGLSKILKHDADSI--TIKSGKVAIKWLAI
+ABL1_HUMAN                          AARNCLVGENH---LVKVADFGLSRLMTGDTYTA---HAGAKFPIKWTAP
+SRC_HUMAN                           RAANILVGENL---VCKVADFGLARLIEDNEYTA---RQGAKFPIKWTAP
+BRAF_HUMAN                          KSNNIFLHEDL---TVKIGDFGLATVKSRWSGSH--QFEQLSGSILWMAP
+VGFR2_HUMAN                         AARNILLSEKN---VVKICDFGLARDIYKDPDYV--RKGDARLPLKWMAP
+BTK_HUMAN                           AARNCLVNDQG---VVKVSDFGLSRYVLDDEYTS---SVGSKFPVRWSPP
+CDK2_HUMAN                          KPQNLLINTEG---AIKLADFGLARAFGVPVRTY----THEVVTLWYRAP
+MET_HUMAN                           AARNCMLDEKF---TVKVADFGLARDMYDKEYYSVHNKTGAKLPVKWMAL
+ALK_HUMAN                           AARNCLLTCPGPGRVAKIGDFGMARDIYRASYYR--KGGCAMLPVKWMPP
+
+EGFR_HUMAN                          ESIL---HRIYTHQSDVWSYGVTVWELMTFGSKPYDGIP--ASEISSILE
+ERBB2_HUMAN                         ESIL---RRRFTHQSDVWSYGVTVWELMTFGAKPYDGIP--AREIPDLLE
+ERBB3_HUMAN                         ESIH---FGKYTHQSDVWSYGVTVWELMTFGAEPYAGLR--LAEVPDLLE
+ERBB4_HUMAN                         ECIH---YRKFTHQSDVWSYGVTIWELMTFGGKPYDGIP--TREIPDLLE
+EGFR_MOUSE                          ESIL---HRIYTHQSDVWSYGVTVWELMTFGSKPYDGIP--ASDISSILE
+EGFR_DROME                          ECIR---NRVFTSKSDVWAFGVTIWELLTFGQRPHENIP--AKDIPDLIE
+LET23_CAEEL                         EIFS---KHCYTHASDVWAFGVTCWEIITFGQSPYQGMS--TDSIHNFLK
+ABL1_HUMAN                          ESLA---YNKFSIKSDVWAFGVLLWEIATYGMSPYPGID--LSQVYELLE
+SRC_HUMAN                           EAAL---YGRFTIKSDVWSFGILLTELTTKGRVPYPGMV--NREVLDQVE
+BRAF_HUMAN                          EVIRMQDKNPYSFQSDVYAFGIVLYELMT-GQLPYSNIN-NRDQIIFMVG
+VGFR2_HUMAN                         ETIF---DRVYTIQSDVWSFGVLLWEIFSLGASPYPGVKI-DEEFCRRLK
+BTK_HUMAN                           EVLM---YSKFSSKSDIWAFGVLMWEIYSLGKMPYERFT--NSETAEHIA
+CDK2_HUMAN                          EILL--GCKYYSTAVDIWSLGCIFAEMVT-RRALFPGDS----EIDQLFR
+MET_HUMAN                           ESLQ---TQKFTTKSDVWSFGVLLWELMTRGAPPYPDVN--TFDITVYLL
+ALK_HUMAN                           EAFM---EGIFTSKTDTWSFGVLLWEIFSLGYMPYPSKS--NQEVLEFVT
+
+EGFR_HUMAN                          KGERLPQ------PPICTIDVYMIMVKCWMIDADSRPKFRELIIEFSKMA
+ERBB2_HUMAN                         KGERLPQ------PPICTIDVYMIMVKCWMIDSECRPRFRELVSEFSRMA
+ERBB3_HUMAN                         KGERLAQ------PQICTIDVYMVMVKCWMIDENIRPTFKELANEFT---
+ERBB4_HUMAN                         KGERLPQ------PPICTIDVYMVMVKCWMIDADSRPKFKELAAEFSRMA
+EGFR_MOUSE                          KGERLPQ------PPICTIDVYMIMVKCWMIDADSRPKFRELILEFSKMA
+EGFR_DROME                          VGLKLEQ------PEICSLDIYCTLLSCWHLDAAMRPTFKQLTTVFAEFA
+LET23_CAEEL                         DGNRLSQ------PPNCSQDLYQELLRCWMADPKSRPGFEILYERFKEFC
+ABL1_HUMAN                          KDYRMER------PEGCPEKVYELMRACWQWNPSDRPSFAEIHQAF----
+SRC_HUMAN                           RGYRMPC------PPECPESLHDLMCQCWRKEPEERPTFEYLQAFLEDYF
+BRAF_HUMAN                          RGYLSPD--LSKVRSNCPKAMKRLMAECLKKKRDERPLFPQILASIELL-
+VGFR2_HUMAN                         EGTRMRA------PDYTTPEMYQTMLDCWHGEPSQRPTFSELVEHLGN--
+BTK_HUMAN                           QGLRLYR------PHLASEKVYTIMYSCWHEKADERPTFKILLSNILDVM
+CDK2_HUMAN                          IFRTLGTPDEVVWPGVTSMPDYKPSFPKW-----ARQDFSKVVPPLDEDG
+MET_HUMAN                           QGRRLLQ------PEYCPDPLYEVMLKCWHPKAEMRPSFSELVSRISAIF
+ALK_HUMAN                           SGGRMDP------PKNCPGPVYRIMTQCWQHQPEDRPNFAIILERIEYCT
+
+EGFR_HUMAN                          RDPQRYL--------------------
+ERBB2_HUMAN                         RDPQRFV--------------------
+ERBB3_HUMAN                         ---------------------------
+ERBB4_HUMAN                         RDPQRYL--------------------
+EGFR_MOUSE                          RDPQRYL--------------------
+EGFR_DROME                          ---------------------------
+LET23_CAEEL                         KVPQLFL--------------------
+ABL1_HUMAN                          ---------------------------
+SRC_HUMAN                           ---------------------------
+BRAF_HUMAN                          ---------------------------
+VGFR2_HUMAN                         ---------------------------
+BTK_HUMAN                           ---------------------------
+CDK2_HUMAN                          RSLLSQMLHYDPNKRISAKAALAHPFF
+MET_HUMAN                           STFI-----------------------
+ALK_HUMAN                           QDPDV----------------------
+
+

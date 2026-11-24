@@ -1,0 +1,11 @@
+# Practical Biopython Course — pinned-range dependencies
+# On Google Colab each notebook's first cell installs what it needs; this file is for local use.
+biopython>=1.86
+pyfamsa>=0.5
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+requests>=2.28
+jupyter>=1.0
+notebook>=7.0
+nbconvert>=7.0

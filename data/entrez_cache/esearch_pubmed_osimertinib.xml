@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
+<eSearchResult><Count>337</Count><RetMax>10</RetMax><RetStart>0</RetStart><IdList>
+<Id>31564718</Id>
+<Id>35534623</Id>
+<Id>40133478</Id>
+<Id>36482474</Id>
+<Id>34558640</Id>
+<Id>41219394</Id>
+<Id>29462255</Id>
+<Id>37060646</Id>
+<Id>39366135</Id>
+<Id>30404555</Id>
+</IdList><TranslationSet><Translation>     <From>osimertinib</From>     <To>"osimertinib"[Supplementary Concept] OR "osimertinib"[All Fields]</To>    </Translation><Translation>     <From>EGFR</From>     <To>"erbb receptors"[Supplementary Concept] OR "erbb receptors"[All Fields] OR "egfr"[All Fields] OR "egfr protein, human"[Supplementary Concept] OR "egfr protein, human"[All Fields] OR "erbb receptors"[MeSH Terms] OR ("erbb"[All Fields] AND "receptors"[All Fields])</To>    </Translation><Translation>     <From>resistance</From>     <To>"resist"[All Fields] OR "resistance"[All Fields] OR "resistances"[All Fields] OR "resistant"[All Fields] OR "resistants"[All Fields] OR "resisted"[All Fields] OR "resistence"[All Fields] OR "resistences"[All Fields] OR "resistent"[All Fields] OR "resistibility"[All Fields] OR "resisting"[All Fields] OR "resistive"[All Fields] OR "resistively"[All Fields] OR "resistivities"[All Fields] OR "resistivity"[All Fields] OR "resists"[All Fields]</To>    </Translation></TranslationSet><QueryTranslation>("osimertinib"[Supplementary Concept] OR "osimertinib"[All Fields]) AND ("erbb receptors"[Supplementary Concept] OR "erbb receptors"[All Fields] OR "egfr"[All Fields] OR "egfr protein human"[Supplementary Concept] OR "egfr protein human"[All Fields] OR "erbb receptors"[MeSH Terms] OR ("erbb"[All Fields] AND "receptors"[All Fields])) AND ("resist"[All Fields] OR "resistance"[All Fields] OR "resistances"[All Fields] OR "resistant"[All Fields] OR "resistants"[All Fields] OR "resisted"[All Fields] OR "resistence"[All Fields] OR "resistences"[All Fields] OR "resistent"[All Fields] OR "resistibility"[All Fields] OR "resisting"[All Fields] OR "resistive"[All Fields] OR "resistively"[All Fields] OR "resistivities"[All Fields] OR "resistivity"[All Fields] OR "resists"[All Fields]) AND "review"[Publication Type]</QueryTranslation></eSearchResult>

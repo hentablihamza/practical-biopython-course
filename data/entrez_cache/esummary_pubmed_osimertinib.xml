@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD esummary v1 20041029//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20041029/esummary-v1.dtd">
+<eSummaryResult>
+<DocSum>
+	<Id>31564718</Id>
+	<Item Name="PubDate" Type="Date">2019 Oct</Item>
+	<Item Name="EPubDate" Type="Date">2019 Sep 30</Item>
+	<Item Name="Source" Type="String">Br J Cancer</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Leonetti A</Item>
+		<Item Name="Author" Type="String">Sharma S</Item>
+		<Item Name="Author" Type="String">Minari R</Item>
+		<Item Name="Author" Type="String">Perego P</Item>
+		<Item Name="Author" Type="String">Giovannetti E</Item>
+		<Item Name="Author" Type="String">Tiseo M</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Tiseo M</Item>
+	<Item Name="Title" Type="String">Resistance mechanisms to osimertinib in EGFR-mutated non-small cell lung cancer.</Item>
+	<Item Name="Volume" Type="String">121</Item>
+	<Item Name="Issue" Type="String">9</Item>
+	<Item Name="Pages" Type="String">725-737</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">0370635</Item>
+	<Item Name="ISSN" Type="String">0007-0920</Item>
+	<Item Name="ESSN" Type="String">1532-1827</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Research Support, Non-U.S. Gov't</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">31564718</Item>
+		<Item Name="pmc" Type="String">PMC6889286</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC6889286;</Item>
+		<Item Name="doi" Type="String">10.1038/s41416-019-0573-8</Item>
+		<Item Name="pii" Type="String">10.1038/s41416-019-0573-8</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1038/s41416-019-0573-8</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2019/03/05 00:00</Item>
+		<Item Name="accepted" Type="Date">2019/08/23 00:00</Item>
+		<Item Name="revised" Type="Date">2019/08/09 00:00</Item>
+		<Item Name="pubmed" Type="Date">2019/10/01 06:00</Item>
+		<Item Name="medline" Type="Date">2020/06/17 06:00</Item>
+		<Item Name="entrez" Type="Date">2019/10/01 06:00</Item>
+		<Item Name="pmc-release" Type="Date">2020/09/30 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">110</Item>
+	<Item Name="FullJournalName" Type="String">British journal of cancer</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1038/s41416-019-0573-8</Item>
+	<Item Name="SO" Type="String">2019 Oct;121(9):725-737</Item>
+</DocSum>
+
+<DocSum>
+	<Id>35534623</Id>
+	<Item Name="PubDate" Type="Date">2022 Aug</Item>
+	<Item Name="EPubDate" Type="Date">2022 May 9</Item>
+	<Item Name="Source" Type="String">Nat Rev Clin Oncol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Cooper AJ</Item>
+		<Item Name="Author" Type="String">Sequist LV</Item>
+		<Item Name="Author" Type="String">Lin JJ</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Lin JJ</Item>
+	<Item Name="Title" Type="String">Third-generation EGFR and ALK inhibitors: mechanisms of resistance and management.</Item>
+	<Item Name="Volume" Type="String">19</Item>
+	<Item Name="Issue" Type="String">8</Item>
+	<Item Name="Pages" Type="String">499-514</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101500077</Item>
+	<Item Name="ISSN" Type="String">1759-4774</Item>
+	<Item Name="ESSN" Type="String">1759-4782</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">35534623</Item>
+		<Item Name="mid" Type="String">NIHMS1841334</Item>
+		<Item Name="pmc" Type="String">PMC9621058</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC9621058;manuscript-id: NIHMS1841334;</Item>
+		<Item Name="doi" Type="String">10.1038/s41571-022-00639-9</Item>
+		<Item Name="pii" Type="String">10.1038/s41571-022-00639-9</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1038/s41571-022-00639-9</Item>
+	<Item Name="History" Type="List">
+		<Item Name="accepted" Type="Date">2022/04/14 00:00</Item>
+		<Item Name="pubmed" Type="Date">2022/05/10 06:00</Item>
+		<Item Name="medline" Type="Date">2022/07/26 06:00</Item>
+		<Item Name="entrez" Type="Date">2022/05/09 23:24</Item>
+		<Item Name="pmc-release" Type="Date">2022/10/31 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List">
+		<Item Name="Erratum in" Type="String">Nat Rev Clin Oncol. 2022 Nov;19(11):744. doi: 10.1038/s41571-022-00680-8. PMID: 35971001</Item>
+	</Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">274</Item>
+	<Item Name="FullJournalName" Type="String">Nature reviews. Clinical oncology</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1038/s41571-022-00639-9</Item>
+	<Item Name="SO" Type="String">2022 Aug;19(8):499-514</Item>
+</DocSum>
+
+<DocSum>
+	<Id>40133478</Id>
+	<Item Name="PubDate" Type="Date">2025 Mar 25</Item>
+	<Item Name="EPubDate" Type="Date">2025 Mar 25</Item>
+	<Item Name="Source" Type="String">Lung</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Jeon H</Item>
+		<Item Name="Author" Type="String">Wang S</Item>
+		<Item Name="Author" Type="String">Song J</Item>
+		<Item Name="Author" Type="String">Gill H</Item>
+		<Item Name="Author" Type="String">Cheng H</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Cheng H</Item>
+	<Item Name="Title" Type="String">Update 2025: Management of Non‑Small-Cell Lung Cancer.</Item>
+	<Item Name="Volume" Type="String">203</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">53</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7701875</Item>
+	<Item Name="ISSN" Type="String">0341-2040</Item>
+	<Item Name="ESSN" Type="String">1432-1750</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">40133478</Item>
+		<Item Name="pmc" Type="String">PMC11937135</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC11937135;</Item>
+		<Item Name="doi" Type="String">10.1007/s00408-025-00801-x</Item>
+		<Item Name="pii" Type="String">10.1007/s00408-025-00801-x</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1007/s00408-025-00801-x</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2025/02/27 00:00</Item>
+		<Item Name="accepted" Type="Date">2025/03/05 00:00</Item>
+		<Item Name="medline" Type="Date">2025/03/26 13:07</Item>
+		<Item Name="pubmed" Type="Date">2025/03/26 13:06</Item>
+		<Item Name="entrez" Type="Date">2025/03/26 00:25</Item>
+		<Item Name="pmc-release" Type="Date">2025/03/25 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">64</Item>
+	<Item Name="FullJournalName" Type="String">Lung</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1007/s00408-025-00801-x</Item>
+	<Item Name="SO" Type="String">2025 Mar 25;203(1):53</Item>
+</DocSum>
+
+<DocSum>
+	<Id>34558640</Id>
+	<Item Name="PubDate" Type="Date">2021 Nov</Item>
+	<Item Name="EPubDate" Type="Date">2021 Sep 24</Item>
+	<Item Name="Source" Type="String">Int J Oncol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">He J</Item>
+		<Item Name="Author" Type="String">Huang Z</Item>
+		<Item Name="Author" Type="String">Han L</Item>
+		<Item Name="Author" Type="String">Gong Y</Item>
+		<Item Name="Author" Type="String">Xie C</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Xie C</Item>
+	<Item Name="Title" Type="String">Mechanisms and management of 3rd‑generation EGFR‑TKI resistance in advanced non‑small cell lung cancer (Review).</Item>
+	<Item Name="Volume" Type="String">59</Item>
+	<Item Name="Issue" Type="String">5</Item>
+	<Item Name="Pages" Type="String"></Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9306042</Item>
+	<Item Name="ISSN" Type="String">1019-6439</Item>
+	<Item Name="ESSN" Type="String">1791-2423</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">34558640</Item>
+		<Item Name="pmc" Type="String">PMC8562388</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC8562388;</Item>
+		<Item Name="doi" Type="String">10.3892/ijo.2021.5270</Item>
+		<Item Name="pii" Type="String">90</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.3892/ijo.2021.5270</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2021/06/25 00:00</Item>
+		<Item Name="accepted" Type="Date">2021/09/09 00:00</Item>
+		<Item Name="entrez" Type="Date">2021/09/24 08:49</Item>
+		<Item Name="pubmed" Type="Date">2021/09/25 06:00</Item>
+		<Item Name="medline" Type="Date">2022/01/29 06:00</Item>
+		<Item Name="pmc-release" Type="Date">2021/09/24 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">138</Item>
+	<Item Name="FullJournalName" Type="String">International journal of oncology</Item>
+	<Item Name="ELocationID" Type="String">pii: 90. doi: 10.3892/ijo.2021.5270</Item>
+	<Item Name="SO" Type="String">2021 Nov;59(5)</Item>
+</DocSum>
+
+<DocSum>
+	<Id>38572595</Id>
+	<Item Name="PubDate" Type="Date">2024 Jun</Item>
+	<Item Name="EPubDate" Type="Date">2024 Apr 8</Item>
+	<Item Name="Source" Type="String">Expert Opin Emerg Drugs</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Favorito V</Item>
+		<Item Name="Author" Type="String">Ricciotti I</Item>
+		<Item Name="Author" Type="String">De Giglio A</Item>
+		<Item Name="Author" Type="String">Fabbri L</Item>
+		<Item Name="Author" Type="String">Seminerio R</Item>
+		<Item Name="Author" Type="String">Di Federico A</Item>
+		<Item Name="Author" Type="String">Gariazzo E</Item>
+		<Item Name="Author" Type="String">Costabile S</Item>
+		<Item Name="Author" Type="String">Metro G</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Metro G</Item>
+	<Item Name="Title" Type="String">Non-small cell lung cancer: an update on emerging EGFR-targeted therapies.</Item>
+	<Item Name="Volume" Type="String">29</Item>
+	<Item Name="Issue" Type="String">2</Item>
+	<Item Name="Pages" Type="String">139-154</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101135662</Item>
+	<Item Name="ISSN" Type="String">1472-8214</Item>
+	<Item Name="ESSN" Type="String">1744-7623</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">38572595</Item>
+		<Item Name="doi" Type="String">10.1080/14728214.2024.2331139</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1080/14728214.2024.2331139</Item>
+	<Item Name="History" Type="List">
+		<Item Name="medline" Type="Date">2024/06/21 18:43</Item>
+		<Item Name="pubmed" Type="Date">2024/04/04 06:44</Item>
+		<Item Name="entrez" Type="Date">2024/04/04 04:33</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Expert opinion on emerging drugs</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1080/14728214.2024.2331139</Item>
+	<Item Name="SO" Type="String">2024 Jun;29(2):139-154</Item>
+</DocSum>
+
+<DocSum>
+	<Id>41219394</Id>
+	<Item Name="PubDate" Type="Date">2026 Jan</Item>
+	<Item Name="EPubDate" Type="Date">2025 Nov 11</Item>
+	<Item Name="Source" Type="String">Nat Rev Clin Oncol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Zhao J</Item>
+		<Item Name="Author" Type="String">Xu W</Item>
+		<Item Name="Author" Type="String">Zhou F</Item>
+		<Item Name="Author" Type="String">Zhang X</Item>
+		<Item Name="Author" Type="String">Zhou M</Item>
+		<Item Name="Author" Type="String">Miao D</Item>
+		<Item Name="Author" Type="String">Yu L</Item>
+		<Item Name="Author" Type="String">Zhang Y</Item>
+		<Item Name="Author" Type="String">Fan J</Item>
+		<Item Name="Author" Type="String">Zhou C</Item>
+		<Item Name="Author" Type="String">Li W</Item>
+		<Item Name="Author" Type="String">Mok T</Item>
+		<Item Name="Author" Type="String">Le X</Item>
+		<Item Name="Author" Type="String">Li M</Item>
+		<Item Name="Author" Type="String">Xia Y</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Xia Y</Item>
+	<Item Name="Title" Type="String">Navigating the landscape of EGFR TKI resistance in EGFR-mutant NSCLC - mechanisms and evolving treatment approaches.</Item>
+	<Item Name="Volume" Type="String">23</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">63-83</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101500077</Item>
+	<Item Name="ISSN" Type="String">1759-4774</Item>
+	<Item Name="ESSN" Type="String">1759-4782</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">41219394</Item>
+		<Item Name="doi" Type="String">10.1038/s41571-025-01085-z</Item>
+		<Item Name="pii" Type="String">10.1038/s41571-025-01085-z</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1038/s41571-025-01085-z</Item>
+	<Item Name="History" Type="List">
+		<Item Name="accepted" Type="Date">2025/10/15 00:00</Item>
+		<Item Name="medline" Type="Date">2025/12/13 00:32</Item>
+		<Item Name="pubmed" Type="Date">2025/11/12 00:26</Item>
+		<Item Name="entrez" Type="Date">2025/11/11 23:30</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Nature reviews. Clinical oncology</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1038/s41571-025-01085-z</Item>
+	<Item Name="SO" Type="String">2026 Jan;23(1):63-83</Item>
+</DocSum>
+
+<DocSum>
+	<Id>29462255</Id>
+	<Item Name="PubDate" Type="Date">2018 Jan 1</Item>
+	<Item Name="EPubDate" Type="Date"></Item>
+	<Item Name="Source" Type="String">Ann Oncol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Remon J</Item>
+		<Item Name="Author" Type="String">Steuer CE</Item>
+		<Item Name="Author" Type="String">Ramalingam SS</Item>
+		<Item Name="Author" Type="String">Felip E</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Felip E</Item>
+	<Item Name="Title" Type="String">Osimertinib and other third-generation EGFR TKI in EGFR-mutant NSCLC patients.</Item>
+	<Item Name="Volume" Type="String">29</Item>
+	<Item Name="Issue" Type="String">suppl_1</Item>
+	<Item Name="Pages" Type="String">i20-i27</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">9007735</Item>
+	<Item Name="ISSN" Type="String">0923-7534</Item>
+	<Item Name="ESSN" Type="String">1569-8041</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Research Support, Non-U.S. Gov't</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">29462255</Item>
+		<Item Name="doi" Type="String">10.1093/annonc/mdx704</Item>
+		<Item Name="pii" Type="String">4860371</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1093/annonc/mdx704</Item>
+	<Item Name="History" Type="List">
+		<Item Name="entrez" Type="Date">2018/02/21 06:00</Item>
+		<Item Name="pubmed" Type="Date">2018/02/21 06:00</Item>
+		<Item Name="medline" Type="Date">2019/10/29 06:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Annals of oncology : official journal of the European Society for Medical Oncology</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1093/annonc/mdx704</Item>
+	<Item Name="SO" Type="String">2018 Jan 1;29(suppl_1):i20-i27</Item>
+</DocSum>
+
+<DocSum>
+	<Id>36482474</Id>
+	<Item Name="PubDate" Type="Date">2022 Dec 8</Item>
+	<Item Name="EPubDate" Type="Date">2022 Dec 8</Item>
+	<Item Name="Source" Type="String">J Hematol Oncol</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Fu K</Item>
+		<Item Name="Author" Type="String">Xie F</Item>
+		<Item Name="Author" Type="String">Wang F</Item>
+		<Item Name="Author" Type="String">Fu L</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Fu L</Item>
+	<Item Name="Title" Type="String">Therapeutic strategies for EGFR-mutated non-small cell lung cancer patients with osimertinib resistance.</Item>
+	<Item Name="Volume" Type="String">15</Item>
+	<Item Name="Issue" Type="String">1</Item>
+	<Item Name="Pages" Type="String">173</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101468937</Item>
+	<Item Name="ISSN" Type="String"></Item>
+	<Item Name="ESSN" Type="String">1756-8722</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Research Support, Non-U.S. Gov't</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">36482474</Item>
+		<Item Name="pmc" Type="String">PMC9733018</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC9733018;</Item>
+		<Item Name="doi" Type="String">10.1186/s13045-022-01391-4</Item>
+		<Item Name="pii" Type="String">10.1186/s13045-022-01391-4</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1186/s13045-022-01391-4</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2022/09/26 00:00</Item>
+		<Item Name="accepted" Type="Date">2022/11/26 00:00</Item>
+		<Item Name="entrez" Type="Date">2022/12/09 01:10</Item>
+		<Item Name="pubmed" Type="Date">2022/12/10 06:00</Item>
+		<Item Name="medline" Type="Date">2022/12/15 06:00</Item>
+		<Item Name="pmc-release" Type="Date">2022/12/08 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">245</Item>
+	<Item Name="FullJournalName" Type="String">Journal of hematology &amp; oncology</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1186/s13045-022-01391-4</Item>
+	<Item Name="SO" Type="String">2022 Dec 8;15(1):173</Item>
+</DocSum>
+
+<DocSum>
+	<Id>40503037</Id>
+	<Item Name="PubDate" Type="Date">2025 Aug</Item>
+	<Item Name="EPubDate" Type="Date">2025 Jun 2</Item>
+	<Item Name="Source" Type="String">Oncol Lett</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Tian Z</Item>
+		<Item Name="Author" Type="String">Cen L</Item>
+		<Item Name="Author" Type="String">Wei F</Item>
+		<Item Name="Author" Type="String">Dong J</Item>
+		<Item Name="Author" Type="String">Huang Y</Item>
+		<Item Name="Author" Type="String">Han Y</Item>
+		<Item Name="Author" Type="String">Wang Z</Item>
+		<Item Name="Author" Type="String">Deng J</Item>
+		<Item Name="Author" Type="String">Jiang Y</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Jiang Y</Item>
+	<Item Name="Title" Type="String">EGFR mutations in non-small cell lung cancer: Classification, characteristics and resistance to third-generation EGFR-tyrosine kinase inhibitors (Review).</Item>
+	<Item Name="Volume" Type="String">30</Item>
+	<Item Name="Issue" Type="String">2</Item>
+	<Item Name="Pages" Type="String">375</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">101531236</Item>
+	<Item Name="ISSN" Type="String">1792-1074</Item>
+	<Item Name="ESSN" Type="String">1792-1082</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed</Item>
+	<Item Name="PubStatus" Type="String"></Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">40503037</Item>
+		<Item Name="pmc" Type="String">PMC12150204</Item>
+		<Item Name="pmcid" Type="String">pmc-id: PMC12150204;</Item>
+		<Item Name="doi" Type="String">10.3892/ol.2025.15121</Item>
+		<Item Name="pii" Type="String">OL-30-2-15121</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.3892/ol.2025.15121</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2025/01/26 00:00</Item>
+		<Item Name="accepted" Type="Date">2025/04/30 00:00</Item>
+		<Item Name="medline" Type="Date">2025/06/12 12:32</Item>
+		<Item Name="pubmed" Type="Date">2025/06/12 12:31</Item>
+		<Item Name="entrez" Type="Date">2025/06/12 06:12</Item>
+		<Item Name="pmc-release" Type="Date">2025/06/02 00:00</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">126</Item>
+	<Item Name="FullJournalName" Type="String">Oncology letters</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.3892/ol.2025.15121</Item>
+	<Item Name="SO" Type="String">2025 Aug;30(2):375</Item>
+</DocSum>
+
+<DocSum>
+	<Id>37060646</Id>
+	<Item Name="PubDate" Type="Date">2023 May</Item>
+	<Item Name="EPubDate" Type="Date">2023 Apr 7</Item>
+	<Item Name="Source" Type="String">Cancer Treat Rev</Item>
+	<Item Name="AuthorList" Type="List">
+		<Item Name="Author" Type="String">Zalaquett Z</Item>
+		<Item Name="Author" Type="String">Catherine Rita Hachem M</Item>
+		<Item Name="Author" Type="String">Kassis Y</Item>
+		<Item Name="Author" Type="String">Hachem S</Item>
+		<Item Name="Author" Type="String">Eid R</Item>
+		<Item Name="Author" Type="String">Raphael Kourie H</Item>
+		<Item Name="Author" Type="String">Planchard D</Item>
+	</Item>
+	<Item Name="LastAuthor" Type="String">Planchard D</Item>
+	<Item Name="Title" Type="String">Acquired resistance mechanisms to osimertinib: The constant battle.</Item>
+	<Item Name="Volume" Type="String">116</Item>
+	<Item Name="Issue" Type="String"></Item>
+	<Item Name="Pages" Type="String">102557</Item>
+	<Item Name="LangList" Type="List">
+		<Item Name="Lang" Type="String">English</Item>
+	</Item>
+	<Item Name="NlmUniqueID" Type="String">7502030</Item>
+	<Item Name="ISSN" Type="String">0305-7372</Item>
+	<Item Name="ESSN" Type="String">1532-1967</Item>
+	<Item Name="PubTypeList" Type="List">
+		<Item Name="PubType" Type="String">Journal Article</Item>
+		<Item Name="PubType" Type="String">Review</Item>
+	</Item>
+	<Item Name="RecordStatus" Type="String">PubMed - indexed for MEDLINE</Item>
+	<Item Name="PubStatus" Type="String">ppublish+epublish</Item>
+	<Item Name="ArticleIds" Type="List">
+		<Item Name="pubmed" Type="String">37060646</Item>
+		<Item Name="doi" Type="String">10.1016/j.ctrv.2023.102557</Item>
+		<Item Name="pii" Type="String">S0305-7372(23)00048-8</Item>
+	</Item>
+	<Item Name="DOI" Type="String">10.1016/j.ctrv.2023.102557</Item>
+	<Item Name="History" Type="List">
+		<Item Name="received" Type="Date">2023/02/05 00:00</Item>
+		<Item Name="revised" Type="Date">2023/03/26 00:00</Item>
+		<Item Name="accepted" Type="Date">2023/04/04 00:00</Item>
+		<Item Name="medline" Type="Date">2023/05/01 06:42</Item>
+		<Item Name="pubmed" Type="Date">2023/04/16 06:00</Item>
+		<Item Name="entrez" Type="Date">2023/04/15 18:02</Item>
+	</Item>
+	<Item Name="References" Type="List"></Item>
+	<Item Name="HasAbstract" Type="Integer">1</Item>
+	<Item Name="PmcRefCount" Type="Integer">0</Item>
+	<Item Name="FullJournalName" Type="String">Cancer treatment reviews</Item>
+	<Item Name="ELocationID" Type="String">doi: 10.1016/j.ctrv.2023.102557</Item>
+	<Item Name="SO" Type="String">2023 May;116:102557</Item>
+</DocSum>
+
+</eSummaryResult>

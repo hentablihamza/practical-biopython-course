@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD esummary v1 20041029//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20041029/esummary-v1.dtd">
+<eSummaryResult>
+<DocSum>
+	<Id>1519245592</Id>
+	<Item Name="Caption" Type="String">NM_005228</Item>
+	<Item Name="Title" Type="String">Homo sapiens epidermal growth factor receptor (EGFR), transcript variant 1, mRNA</Item>
+	<Item Name="Extra" Type="String">gi|1519245592|ref|NM_005228.5|[1519245592]</Item>
+	<Item Name="Gi" Type="Integer">1519245592</Item>
+	<Item Name="CreateDate" Type="String">1999/05/24</Item>
+	<Item Name="UpdateDate" Type="String">2026/04/13</Item>
+	<Item Name="Flags" Type="Integer">512</Item>
+	<Item Name="TaxId" Type="Integer">9606</Item>
+	<Item Name="Length" Type="Integer">9905</Item>
+	<Item Name="Status" Type="String">live</Item>
+	<Item Name="ReplacedBy" Type="String"></Item>
+	<Item Name="Comment" Type="String"><![CDATA[  ]]></Item>
+	<Item Name="AccessionVersion" Type="String">NM_005228.5</Item>
+</DocSum>
+
+</eSummaryResult>

@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Practical Biopython Course"
+message: "If you use these materials, please cite them using the metadata below."
+type: dataset
+authors:
+  - family-names: Hentabli
+    given-names: Hamza
+    orcid: "https://orcid.org/0000-0002-9530-2815"
+repository-code: "https://github.com/hentablihamza/practical-biopython-course"
+url: "https://github.com/hentablihamza/practical-biopython-course"
+abstract: >
+  A hands-on, 12-notebook course that teaches Biopython from Python basics to sequence
+  analysis, NCBI Entrez, BLAST, pairwise and multiple alignment, protein analysis,
+  phylogenetics, and protein-ligand structures with Bio.PDB, following the drug target EGFR
+  with real public data from NCBI, UniProt, and the PDB. Every notebook runs in Google Colab
+  with one click.
+keywords:
+  - Biopython
+  - bioinformatics
+  - structural biology
+  - drug discovery
+  - sequence analysis
+  - BLAST
+  - education
+  - tutorial
+date-released: "2026-11-24"

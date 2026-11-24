@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
+<eSearchResult><Count>1</Count><RetMax>1</RetMax><RetStart>0</RetStart><IdList>
+<Id>1519245592</Id>
+</IdList><TranslationSet><Translation>     <From>Homo sapiens[Organism]</From>     <To>"Homo sapiens"[Organism]</To>    </Translation></TranslationSet><TranslationStack>   <TermSet>    <Term>EGFR[Gene Name]</Term>    <Field>Gene Name</Field>    <Count>4205</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>"Homo sapiens"[Organism]</Term>    <Field>Organism</Field>    <Count>29920157</Count>    <Explode>Y</Explode>   </TermSet>   <OP>AND</OP>   <TermSet>    <Term>refseq_select[filter]</Term>    <Field>filter</Field>    <Count>65419</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>  </TranslationStack><QueryTranslation>EGFR[Gene Name] AND "Homo sapiens"[Organism] AND refseq_select[filter]</QueryTranslation></eSearchResult>

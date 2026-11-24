@@ -1,0 +1,58 @@
+{
+  "uniprot": {
+    "retrieved": "2026-11-24",
+    "source": "https://rest.uniprot.org/uniprotkb/",
+    "accessions": [
+      "P00533",
+      "P04626",
+      "P21860",
+      "Q15303",
+      "Q01279",
+      "P04412",
+      "P24348",
+      "P00519",
+      "P12931",
+      "P15056",
+      "P35968",
+      "Q06187",
+      "P24941",
+      "P08581",
+      "Q9UM73"
+    ]
+  },
+  "entrez": {
+    "retrieved": "2026-11-24",
+    "nucleotide_term": "EGFR[Gene Name] AND Homo sapiens[Organism] AND refseq_select[filter]",
+    "pubmed_term": "osimertinib AND EGFR AND resistance AND review[pt]",
+    "records": [
+      "NM_005228"
+    ]
+  },
+  "pdb": {
+    "retrieved": "2026-11-24",
+    "source": "https://files.rcsb.org/download/",
+    "ids": [
+      "1M17"
+    ]
+  },
+  "msa": {
+    "retrieved": "2026-11-24",
+    "tool": "FAMSA via pyfamsa 0.7.0, UPGMA guide tree",
+    "input": "data/sequences/kinase_domains.fasta",
+    "outputs": [
+      "kinase_domains_famsa.aln",
+      "kinase_domains_famsa.fasta"
+    ]
+  },
+  "blast": {
+    "retrieved": "2026-11-24",
+    "how": "local blastp: 2.17.0+ against NCBI's preformatted swissprot database",
+    "database": "swissprot (https://ftp.ncbi.nlm.nih.gov/blast/db/swissprot.tar.gz)",
+    "database_date": "Nov 15, 2026  5:53 AM",
+    "program": "blastp",
+    "query": "P00533 residues 712-979",
+    "max_target_seqs": 50,
+    "expect": 1e-10,
+    "matrix": "BLOSUM62"
+  }
+}
